@@ -36,5 +36,8 @@ THEN I find a concise, descriptive title
 
 # Final Product Screenshot
 
+![alt text](assets/Screenshot.png "Screenshot")
 
-# Links
+# Link
+
+https://marinemasta.github.io/Horiseon-Website/ 
